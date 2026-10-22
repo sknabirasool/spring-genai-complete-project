@@ -1,0 +1,10 @@
+
+Failed Transaction Handling Procedure
+
+1. Verify the transaction reference number.
+2. Check the transaction status in the transaction system.
+3. If the transaction failed, verify whether the customer account was debited.
+4. If the account was debited but the transaction failed, create an investigation request.
+5. Record the investigation reference number.
+6. Notify the customer according to the approved communication procedure.
+7. Do not confirm a refund until the transaction investigation is complete.
